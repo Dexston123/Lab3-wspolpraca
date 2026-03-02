@@ -1,0 +1,17 @@
+{
+    "apart-polanka": {
+        "key": "apart-polanka",
+        "name": "Polanka",
+        "area_m2": 65,
+        "rooms": {
+            "room-bigger": {
+                "name": "Bigger Room",
+                "area_m2": 20
+            },
+            "room-smaller": {
+                "name": "Smaller Room",
+                "area_m2": 15
+            }
+        }
+    } 
+}
