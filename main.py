@@ -110,9 +110,6 @@ class TenantSettlement(BaseModel):
     transfers_sum:float
     balance: float
 
-    
-
-
 if __name__ == '__main__':
     parameters = Parameters()
     manager = Manager(parameters)
