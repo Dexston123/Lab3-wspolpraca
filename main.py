@@ -90,7 +90,6 @@ class ApartmentSettlement(BaseModel):
     total_rent_pln: float 
     amount_remaining_pln: float 
 
-
 class Manager:
     def __init__(self, parameters: Parameters):
         self.parameters = parameters 
